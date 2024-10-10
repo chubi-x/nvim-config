@@ -5,3 +5,5 @@ vim.keymap.set("n", "<C-Up>", "10k", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Left>", "10h", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Right>", "10l", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Shift-Down>", "yyp", { noremap = true, silent = true })
+vim.opt.number = true
+vim.opt.relativenumber = false
