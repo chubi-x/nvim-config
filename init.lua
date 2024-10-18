@@ -7,13 +7,14 @@ vim.keymap.set("n", "<C-Right>", "10l", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-Shift-Down>", "yyp", { noremap = true, silent = true })
 vim.opt.number = true
 vim.opt.relativenumber = false
-
+vim.diagnostic.config({ virtual_text = false })
 require("neo-tree").setup({
   filesystem = {
     filtered_items = {
       visible = true, -- This is what you want: If you set this to `true`, all "hide" just mean "dimmed out"
       hide_dotfiles = false,
       hide_gitignored = true,
+      vim.diagnostic.config({ virtual_text = false }),
     },
   },
 })

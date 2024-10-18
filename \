@@ -1,0 +1,1132 @@
+2024-03-11 09:22 hello
+2024-03-11 09:55 daily scrum: scrummy
+2024-03-11 12:30 optioat: fix csp tests
+2024-03-11 13:21 lunch**
+2024-03-11 17:16 optioat: battling with csp nonce on leaflet widget
+
+2024-03-12 08:40 hello
+2024-03-12 08:47 general overhead: social media couse
+2024-03-12 09:30 optioat: battling with csp nonce on leaflet widget
+2024-03-12 09:46 software overhead: daily scrum
+2024-03-12 09:47 software overhead: daily scrum
+2024-03-12 12:55 optioat: complete csp for growers. begin cleanup to find other potential csp issues 
+2024-03-12 14:00 lunch**
+2024-03-12 15:00 team meeting
+2024-03-12 15:40 software overhead: sprint review with pepsi
+2024-03-12 16:42 software overhead: sprint retroactive
+
+2024-03-13 08:54 hello
+2024-03-13 09:17 general overhead: finish cyber sec course
+2024-03-13 09:29 software overhead: complete pending todos
+2024-03-13 12:58 pepsico: sprint planning(split btw optioat and spudweb)
+2024-03-13 13:55 lunch**
+2024-03-13 16:07 optioat: raise PR
+
+2024-03-14 08:44 hello
+2024-03-14 09:30 optioat: review PRs
+2024-03-14 09:53 optioat: daily scrum
+2024-03-14 11:00 optioat: begin writing csp documentation
+2024-03-14 12:11 optioat: look at joe's integration tests
+2024-03-14 13:08 lunch**
+2024-03-14 16:49 optioat: csp documentation (lost all progress)
+
+2024-03-15 08:59 hello
+2024-03-15 09:30 optioat: csp documentation (start again)
+2024-03-15 09:51 optioat: daily scrum
+2024-03-15 12:46 optioat: finish csp documentation
+2024-03-15 13:48 lunch**
+2024-03-15 14:45 optioat: resolve csp PR issues
+2024-03-15 17:30 optioat: begin scraping cft data
+
+2024-03-18 08:45 hello
+2024-03-18 09:30 optioat: finish cft scrape
+2024-03-18 09:52 optioat: daily scrum
+2024-03-18 10:20 optioat: raise pr for cft ref data scrape
+2024-03-18 12:44 spudweb: configure csp
+2024-03-18 13:43 lunch**
+2024-03-18 17:14 optioat: resolve issues. read two scoops.
+
+2024-03-19 08:53 hello
+2024-03-19 09:50 optioat: daily scrum
+2024-03-19 12:22 optioat: review PRs, look into Todo tickets
+2024-03-19 13:24 lunch**
+2024-03-19 14:00 optioat: create management command for cft scrape
+2024-03-19 14:57 general overhead: team meeting
+2024-03-19 17:20 optioat: turn cft script into management command
+
+2024-03-20 08:36 hello
+2024-03-20 09:33 optioat: refactor cft scrape
+2024-03-20 10:10 optioat: daily scrum
+2024-03-20 11:29 optioat: update cft scrape PR
+2024-03-20 12:10 optioat: pair with joe on TODOS
+2024-03-20 13:15 lunch**
+2024-03-20 14:00 optioat: pick up bug copy ticket
+2024-03-20 15:22 optioat: backlog refinement
+2024-03-20 16:26 optioat: copy debug ticket
+
+2024-03-21 08:51 hello
+2024-03-21 09:31 optioat: copy debug ticket
+2024-03-21 09:56 optioat: daily scrum
+2024-03-21 12:04 optioat: copy debug ticket: understand how forms work
+2024-03-21 13:05 lunch**
+2024-03-21 16:15 optioat: finish copy debug ticket
+2024-03-21 17:39 software overhead: read about scrum + misc
+
+2024-03-22 08:38 hello
+2024-03-22 09:10 software overhead: read about django relationships
+2024-03-22 09:31 optioat: start adding fields to be copied on grower dashboard
+2024-03-22 09:47 optioat: daily scrum
+2024-03-22 12:25 optioat: work on copy ticket
+2024-03-22 13:28 lunch**
+2024-03-22 17:17 optioat: refactor copy fields test
+
+2024-03-25 08:47 hello
+2024-03-25 09:30 optioat: look at test refactor
+2024-03-25 10:10 optioat: daily scrum
+2024-03-25 12:16 optioat: everything and nothing
+2024-03-25 13:21 lunch**
+2024-03-25 14:05 optioat: gems refactor with max
+2024-03-25 14:37 optioat: backlog refinement
+2024-03-25 17:17 optioat: finally finish csp
+2024-03-25 17:17 optioat: finally finish csp
+2024-03-25 17:17 optioat: finally finish csp
+
+2024-03-26 09:07 hello
+2024-03-26 09:30 software overhead: morning stuff
+2024-03-26 10:02 optioat: daily scrum
+2024-03-26 12:21 optioat: rebase develop on PRs
+2024-03-26 13:21 lunch**
+2024-03-26 14:00 software overhead: gist
+2024-03-26 14:26 general overhead: tyde meeting
+2024-03-26 17:30 optioat: bootstrap upgrade
+
+2024-03-27 08:28 hello
+2024-03-27 09:30 optioat: debug toolbar debug
+2024-03-27 10:15 optioat: daily scrum
+2024-03-27 11:24 general overhead: PAD meeting
+2024-03-27 12:00 optioat: bootstrap migrate
+2024-03-27 13:13 lunch**
+2024-03-27 14:05 optioat: flailing about
+2024-03-27 14:57 optioat: flailing backlog refinement
+2024-03-27 16:32 optioat: bootstrap migrate
+2024-03-27 17:05 optioat: bootstrap migrate
+
+2024-03-28 08:32 hello
+2024-03-28 09:30 optioat: bootstrap migrate
+2024-03-28 09:51 optioat: daily scrum
+2024-03-28 12:04 optioat: bootstrap progress
+2024-03-28 13:19 lunch**
+2024-03-28 15:00 optioat: bootstrap progress
+2024-03-28 17:12 optioat: raise upgrade PR
+
+2024-04-02 08:30 hello
+2024-04-02 09:30 optioat: fix integration tests
+2024-04-02 10:01 optioat: daily scrum
+2024-04-02 15:37 optioat: bootstrap
+2024-04-02 16:11 lunch**
+2024-04-02 16:46 optioat: rebase develop on bootstrap upgrade
+
+2024-04-03 08:36 hello
+2024-04-03 09:38 optioat: pull seb repo
+2024-04-03 10:17 optioat: daily scrum
+2024-04-03 15:40 optioat: htmx figure out why map not showing
+
+2024-04-04 08:30 hello
+2024-04-04 08:55 optioat: htmx overhaul find out p with leaflet map
+2024-04-04 09:15 bike **
+2024-04-04 09:36 optioat: htmx overhaul 500 somewhere
+2024-04-04 09:47 optioat: daily scrum
+2024-04-04 11:07 optioat: htmx overhaul 500 somewhere
+2024-04-04 11:31 bike **
+2024-04-04 12:00 bike **
+2024-04-04 17:03 optioat: htmx overhaul complete fertiliser part
+
+2024-04-05 08:32 hello
+2024-04-05 09:32 optioat: ux overhaul can't find formset stuff
+2024-04-05 09:51 optioat: daily scrum
+2024-04-05 13:22 optioat: ux overhaul fix add fertiliser stuff
+2024-04-05 13:36 lunch**
+2024-04-05 16:10 optioat: ux overhaul progress
+
+2024-04-08 08:44 hello
+2024-04-08 09:33 optioat: ux overhaul progress
+2024-04-08 10:05 optioat: daily scrum
+2024-04-08 12:57 optioat: ux overhaul progress
+2024-04-08 13:34 lunch**
+2024-04-08 13:34 lunch**
+2024-04-08 14:06 optioat: ux overhaul progress
+2024-04-08 14:21 optioat: backlog refinement
+2024-04-08 16:45 optioat: ux overhaul progress
+
+2024-04-09 08:37 hello
+2024-04-09 13:27 optioat: ux overhaul progress
+2024-04-09 14:00 lunch**
+2024-04-09 15:03 general overhead: team meeting
+2024-04-09 16:00 optioat: ux overhaul progress
+2024-04-09 16:42 optioat: sprint retro
+
+2024-04-10 08:25 hello
+2024-04-10 09:33 optioat: ux overhaul progress
+2024-04-10 09:55 optioat: daily scrum
+2024-04-10 13:09 optioat: ux overhaul progress
+2024-04-10 13:44 lunch**
+2024-04-10 15:33 optioat: ux overhaul progress
+2024-04-10 16:28 optioat: sprint review
+2024-04-10 16:36 general overhead: stuff
+
+2024-04-11 08:36 hello
+2024-04-11 09:32 opioat: morning stuff
+2024-04-11 13:57 optioat: ux overhaul progress
+2024-04-11 14:29 lunch**
+2024-04-11 16:28 optioat: ux overhaul progress
+
+2024-04-12 08:42 hello
+2024-04-12 09:32 general overhead: stuff
+2024-04-12 09:44 optioat: daily scrum
+2024-04-12 12:56 optioat: ux overhaul progress
+2024-04-12 13:32 lunch**
+2024-04-12 16:30 optioat: ux overhaul progress
+
+2024-04-15 08:40 hello
+2024-04-15 09:30 optioat: ux overhaul progress
+2024-04-15 10:06 optioat: daily scrum
+2024-04-15 13:18 optioat: ux overhaul progress
+2024-04-15 13:56 lunch**
+2024-04-15 17:04 optioat: ux overhaul progress
+
+2024-04-16 08:43 hello
+2024-04-16 09:34 general overhead: stuff
+2024-04-16 09:55 optioat: daily scrum
+2024-04-16 12:17 optioat: ux overhaul test
+2024-04-16 13:15 lunch**
+2024-04-16 14:00 optioat: ux overhaul test
+2024-04-16 15:01 general overhead: team meeting
+2024-04-16 16:49 optioat: ux overhaul test
+
+2024-04-18 08:39 hello
+2024-04-18 09:32 general overhead: catch up
+2024-04-18 12:21 optioat: ux overhaul test
+2024-04-18 13:16 lunch**
+2024-04-18 16:58 optioat: ux overhaul test
+
+2024-04-19 08:42 hello
+2024-04-19 12:20 optioat: test
+2024-04-19 13:21 lunch**
+2024-04-19 17:03 optioat: finish testing
+
+2024-04-22 08:51 hello
+2024-04-22 09:30 general overhead: catch up
+2024-04-22 09:53 optioat: daily scrum
+2024-04-22 12:42 optioat: grower form PR
+2024-04-22 13:42 lunch**
+2024-04-22 14:56 optioat: backlog refinement
+2024-04-22 17:15 optioat: grower form tickets
+
+2024-04-23 08:39 hello
+2024-04-23 09:32 general overhead: catch up
+2024-04-23 09:43 optioat: daily scrum
+2024-04-23 12:06 optioat: grower form tickets
+2024-04-23 13:00 lunch**
+2024-04-23 14:05 optioat: grower form tickets
+2024-04-23 14:53 general overhead: team meeting
+2024-04-23 17:23 optioat: grower form tickets
+
+2024-04-24 08:32 hello
+2024-04-24 09:31 general overhead: catch up
+2024-04-24 09:52 optioat: daily scrum
+2024-04-24 12:38 optioat: grower form tickets
+2024-04-24 13:40 lunch**
+2024-04-24 15:06 optioat: backlog refinement
+2024-04-24 16:41 general overhead: catch up
+
+2024-04-25 08:41 hello
+2024-04-25 09:32 general overhead: catch up
+2024-04-25 09:44 optioat: daily scrum
+2024-04-25 11:49 optioat: deployment
+2024-04-25 11:52 optioat: deployment
+2024-04-25 13:09 lunch**
+2024-04-25 17:16 optioat: js refactor
+
+2024-04-26 09:04 hello
+2024-04-26 09:31 general overhead: catch up
+2024-04-26 09:42 optioat: daily scrum
+2024-04-26 12:29 optioat: js refactor
+2024-04-26 13:19 lunch**
+2024-04-26 17:16 optioat: js refactor
+
+2024-04-29 08:40 hello
+2024-04-29 09:30 general overhead: catch up
+2024-04-29 09:49 optioat: daily scrum
+2024-04-29 12:27 optioat: js refactor
+2024-04-29 12:35 general overhead: IT courses
+2024-04-29 12:53 software overhead: stuff i guess
+2024-04-29 13:56 lunch**
+2024-04-29 17:10 optioat: inv utils stuff and refactor
+
+2024-04-30 08:41 hello
+2024-04-30 09:30 software overhead: catch up
+2024-04-30 10:02 optioat: daily scrum
+2024-04-30 12:11 optioat: inv utils stuff and refactor
+2024-04-30 13:03 lunch**
+2024-04-30 13:28 optioat: trying to pick up try_sample
+2024-04-30 14:06 optioat: trying to pick up try_sample
+2024-04-30 14:59 general overhead: team meeting
+2024-04-30 16:56 optioat: trying to pick up try_sample
+
+2024-05-01 08:37 hello
+2024-05-01 09:31 software overhead: gist
+2024-05-01 09:49 optioat: daily scrum
+2024-05-01 12:41 optioat: trying to pick up try_sample and then moving over to custom npks
+2024-05-01 13:37 lunch**
+2024-05-01 16:03 optioat: sprint planning
+2024-05-01 16:58 optioat: faliling about kinda
+
+2024-05-02 08:44 hello
+2024-05-02 09:30 software overhead: catch up
+2024-05-02 09:52 optioat: daily scrum
+2024-05-02 12:23 optioat: smap stuff
+2024-05-02 13:09 lunch**
+2024-05-02 13:51 optioat: sprint demo prep
+2024-05-02 17:01 optioat: copy sections
+
+2024-05-03 08:33 hello
+2024-05-03 09:30 software overhead: catch up
+2024-05-03 09:50 optioat: daily scrum
+2024-05-03 12:48 optioat: copy sections
+2024-05-03 13:50 lunch**
+2024-05-03 16:56 optioat: copy sections
+
+2024-05-06 08:31 hello
+2024-05-06 09:33 software overhead: catch up
+2024-05-06 15:58 optioat: copy sections and Joe PR
+
+2024-05-07 08:25 hello
+2024-05-07 09:31 software overhead: catch up
+2024-05-07 09:42 optioat: daily scrum
+2024-05-07 13:01 optioat: forest biomass validation
+2024-05-07 13:47 lunch**
+2024-05-07 14:49 general overhead: team meeting
+2024-05-07 16:50 optioat: forest biomass validation
+
+2024-05-08 08:32 hello
+2024-05-08 09:30 software overhead: catch up
+2024-05-08 09:58 optioat: daily scrum
+2024-05-08 12:36 optioat: shaughnas list
+2024-05-08 13:44 lunch**
+2024-05-08 14:00 optioat: carbon change tests
+2024-05-08 15:00 optioat: refinement
+2024-05-08 16:55 optioat: shaughnaghs list
+
+2024-05-09 08:41 hello
+2024-05-09 09:30 software overhead: catch up
+2024-05-09 09:59 optioat: daily scrum
+2024-05-09 12:11 optioat: shaughnaghs list
+2024-05-09 12:37 lunch**
+2024-05-09 14:51 optioat: shaughnaghs list
+2024-05-09 16:41 optioat: begin bootstrap grid prototype
+
+2024-05-10 08:32 hello
+2024-05-10 09:32 software overhead: catch up
+2024-05-10 09:40 optioat: daily scrum
+2024-05-10 10:03 general overhead: create cv
+2024-05-10 12:04 optioat: finish bootstrap grid prototype
+2024-05-10 12:49 lunch**
+2024-05-10 16:38 optioat: finish bootstrap grid prototype
+
+2024-05-13 08:37 hello
+2024-05-13 09:31 software overhead: catch up
+2024-05-13 11:03 optioat: daily scrum
+2024-05-13 12:32 optioat: look at PR's and amors code
+2024-05-13 13:33 lunch**
+2024-05-13 14:01 optioat: look at amors code
+2024-05-13 14:28 optioat: backlog refinement
+2024-05-13 16:48 optioat: amor stuff
+
+2024-05-14 08:31 hello
+2024-05-14 09:30 software overhead: catch up
+2024-05-14 09:50 optioat: daily scrum
+2024-05-14 12:04 optioat: amor stuff and raise PRs and other misc stuff
+2024-05-14 12:49 lunch**
+2024-05-14 13:56 optioat: joseph pr
+2024-05-14 14:59 general overhead: team meeting
+2024-05-14 16:40 software overhead: esds
+
+2024-05-15 08:25 hello
+2024-05-15 09:30 software overhead: catch up
+2024-05-15 10:10 optioat: daily scrum
+2024-05-15 12:28 optioat: review my pr and setup spudweb
+2024-05-15 13:06 lunch**
+2024-05-15 14:00 spudweb: prs and stuff
+2024-05-15 14:52 spudweb: pepsi meeting
+2024-05-15 16:05 spudweb: pepsi meeting
+
+2024-05-16 08:35 hello
+2024-05-16 09:30 software_overhead: catch up
+2024-05-16 10:03 optioat: daily scrum
+2024-05-16 16:22 spudweb: pepsi meeting
+
+2024-05-17 08:34 hello
+2024-05-17 09:30 software_overhead: catch up
+2024-05-17 09:45 optioat: daily scrum
+2024-05-17 12:52 spudweb: pepsi meeting
+2024-05-17 13:40 lunch**
+2024-05-17 17:01 spudweb: pepsi meeting
+
+2024-05-20 08:30 hello
+2024-05-20 09:30 general_overhead: catch up
+2024-05-20 10:05 optioat: daily scrum
+
+2024-05-21 08:29 hello
+2024-05-21 09:32 optioat: review PRs and stuff
+2024-05-21 10:05 optioat: daily scrum
+2024-05-21 12:41 general_overhead: PAD
+2024-05-21 13:41 lunch**
+2024-05-21 14:41 general_overhead: team meeting
+2024-05-21 15:11 general_overhead: PAD
+
+2024-05-22 08:33 hello
+2024-05-22 09:30 software_overhead: catch up
+2024-05-22 13:01 spudweb: sprint planning
+2024-05-22 13:49 lunch**
+2024-05-22 15:42 spudweb: sprint planning
+2024-05-22 16:47 general_overhead: stuff i guess
+
+2024-05-23 08:34 hello
+2024-05-23 10:30 spudweb: francis meeting
+2024-05-23 14:33 general_overhead: south wales team meet
+2024-05-23 16:07 spudweb: guuid model chanegs
+
+2024-05-28 08:50 hello
+2024-05-28 09:30 software_overhead: catch up
+2024-05-28 10:07 spudweb: daily scrum
+2024-05-28 11:57 spudweb: guuid model chanegs
+2024-05-28 12:49 lunch**
+2024-05-28 17:08 spudweb: guuid model chanegs
+
+2024-05-29 08:41 hello
+2024-05-29 09:31 software_overhead: catch up
+2024-05-29 09:59 spudweb: daily scrum
+2024-05-29 12:49 spudweb: fetch IRI
+2024-05-29 13:42 lunch**
+2024-05-29 15:05 spudweb: backlog refinement
+2024-05-29 16:59 spudweb: backlog refinement
+
+2024-05-30 08:41 hello
+2024-05-30 09:30 software_overhead: catch up
+2024-05-30 09:55 spudweb: dailyscrum
+2024-05-30 12:57 spudweb: take db dumps
+2024-05-30 14:00 lunch**
+2024-05-30 15:05 spudweb: meeting
+2024-05-30 17:07 spudweb: meeting
+
+2024-05-31 08:38 hello
+2024-05-31 09:54 spudweb: dailyscrum
+2024-05-31 12:34 spudweb: stuff i guess
+2024-05-31 13:18 lunch**
+2024-05-31 16:42 spudweb: stuff i guess
+
+2024-06-03 08:32 hello
+2024-06-03 9:30 software_overhead: catch up
+2024-06-03 10:06 spudweb: dailyscrum
+2024-06-03 12:03 optioat: formset bug
+2024-06-03 12:49 lunch**
+2024-06-03 16:41 optioat: formset bug
+
+2024-06-04 08:27 hello
+2024-06-04 09:12 software_overhead: catch up
+2024-06-04 09:30 optioat: formset bug
+2024-06-04 10:05 spudweb: dailyscrum
+2024-06-04 12:40 optioat: formset bug
+2024-06-04 13:17 lunch**
+2024-06-04 16:28 optioat: formset bug
+
+2024-06-05 08:32 hello
+2024-06-05 09:25 general_overhead: cybersec tests
+2024-06-05 09:32 optioat: formset bug
+2024-06-05 10:09 optioat: dailyscrum
+2024-06-05 12:10 optioat: formset bug
+2024-06-05 13:14 lunch**
+2024-06-05 17:00 optioat: formset bug
+
+2024-06-06 08:45 hello
+2024-06-06 09:30 general_overhead: catch up
+2024-06-06 09:58 optioat: dailyscrum
+2024-06-06 12:56 optioat: formset bug
+2024-06-06 13:45 lunch**
+2024-06-06 16:59 optioat: formset bug
+
+2024-06-07 08:41 hello
+2024-06-07 09:33 general_overhead: get to the library
+2024-06-07 09:39 optioat: dailyscrum
+2024-06-07 11:53 optioat: formset bug
+2024-06-07 12:47 lunch**
+2024-06-07 16:58 optioat: formset bug
+
+2024-06-10 08:32 hello
+2024-06-10 09:30 general_overhead: catch up
+2024-06-10 09:56 optioat: dailyscrum
+2024-06-10 13:05 optioat: formset bug
+2024-06-10 14:07 lunch**
+2024-06-10 16:56 optioat: formset bug
+2024-06-10 16:57 optioat: formset bug
+
+2024-06-11 08:28 hello
+2024-06-11 09:30 general_overhead: catch up
+2024-06-11 10:01 optioat: dailyscrum
+2024-06-11 12:47 optioat: formset bug
+2024-06-11 13:36 lunch**
+2024-06-11 14:00 optioat: formset bug
+2024-06-11 14:58 general_overhead: team meeting
+2024-06-11 17:03 optioat: meeting
+
+2024-06-12 08:29 hello
+2024-06-12 09:30 optioat: bug
+2024-06-12 12:38 spudweb: sprint planning
+2024-06-12 13:32 lunch**
+2024-06-12 16:01 spudweb: sprint planning
+2024-06-12 16:23 general_overhead: stuff
+
+2024-06-13 08:32 hello
+2024-06-13 09:30 general_overhead: catch up
+2024-06-13 10:01 optioat: review pr
+2024-06-13 14:22 spudweb: searchable dropdown
+2024-06-13 15:23 lunch**
+2024-06-13 16:59 optioat: review pr
+
+2024-06-14 08:38 hello
+2024-06-14 09:30 general_overhead: catch up
+2024-06-14 09:58 spudweb: dailyscrum
+2024-06-14 11:00 general_overhead: stuff I guess
+2024-06-14 12:10 spudweb: joe
+2024-06-14 13:04 lunch**
+2024-06-14 14:20 spudweb: joe
+2024-06-14 16:53 general_overhead: pad
+
+2024-06-17 08:52 hello
+2024-06-17 09:31 general_overhead: catch up
+2024-06-17 09:56 spudweb: dailyscrum
+2024-06-17 11:34 spudweb: joe and bokeh
+2024-06-17 11:59 spudweb: review PR and stuff
+2024-06-17 12:30 lunch**
+2024-06-17 16:46 spudweb: review PR and stuff
+
+2024-06-18 08:34 hello
+2024-06-18 09:31 general_overhead: catch up
+2024-06-18 10:25 spudweb: scrum + meting
+2024-06-18 12:42 spudweb: translation
+2024-06-18 13:41 lunch**
+2024-06-18 14:51 general_overhead: team meeting
+2024-06-18 16:00 spudweb: backlog refinement
+2024-06-18 16:58 spudweb: backlog refinement
+
+2024-06-19 08:25 hello
+2024-06-19 09:30 general_overhead: catch up
+2024-06-19 12:57 spudweb: sprint planning
+2024-06-19 14:00 lunch**
+2024-06-19 16:56 spudweb: add data_date to mr
+
+2024-06-20 08:36 hello
+2024-06-20 09:31 spudweb: stuff
+2024-06-20 09:42 spudweb: dailyscrum
+2024-06-20 12:18 spudweb: Prs and things
+2024-06-20 13:21 lunch**
+2024-06-20 17:09 spudweb: Prs and things
+
+2024-06-21 08:30 hello
+2024-06-21 09:30 software_overhead: catch up
+2024-06-21 13:39 spudweb: Prs and things
+2024-06-21 14:39 lunch**
+2024-06-21 16:44 spudweb: Prs and things
+
+2024-06-24 08:36 hello
+2024-06-24 09:32 general_overhead: catch up
+2024-06-24 09:57 spudweb: dailyscrum
+2024-06-24 12:43 spudweb: fetch all method
+2024-06-24 13:59 lunch**
+2024-06-24 15:04 spudweb: backlog refinement
+2024-06-24 17:16 spudweb: fetch all
+
+2024-06-25 08:33 hello
+2024-06-25 09:31 general_overhead: catch up
+2024-06-25 09:55 spudweb: dailyscrum
+2024-06-25 10:10 general_overhead: stuff
+2024-06-25 12:04 software_overhead: woods for people
+2024-06-25 12:13 general_overhead: catch up
+2024-06-25 13:40 lunch**
+2024-06-25 15:01 spudweb: fetch all
+2024-06-25 15:54 software_overhead: ai/ml working group
+2024-06-25 17:24 spudweb: fetch all
+
+2024-06-26 08:29 hello
+2024-06-26 09:31 general_overhead: catch up
+2024-06-26 10:04 spudweb: dailyscrum
+2024-06-26 12:48 spudweb: fetch all
+2024-06-26 13:54 lunch**
+2024-06-26 15:03 spudweb: refinement
+2024-06-26 16:59 spudweb: fetch all
+
+2024-06-27 08:37 hello
+2024-06-27 09:30 general_overhead: catch up
+2024-06-27 10:01 spudweb: dailyscrum
+2024-06-27 12:59 spudweb: fetch all
+2024-06-27 14:09 lunch**
+2024-06-27 17:11 spudweb: fetch all
+
+2024-06-28 08:38 hello
+2024-06-28 09:29 general_overhead: catch up
+2024-06-28 09:45 spudweb: dailyscrum
+2024-06-28 12:52 spudweb: add modelrun problems link
+2024-06-28 13:46 lunch**
+2024-06-28 17:00 spudweb: add modelrun problems link
+
+2024-07-01 09:07 hello
+2024-07-01 09:30 general_overhead: catch up
+2024-07-01 09:54 spudweb: dailyscrum
+2024-07-01 13:30 spudweb: fetch all and variety params
+2024-07-01 14:03 lunch**
+2024-07-01 14:58 spudweb: backlog refinement
+2024-07-01 17:02 spudweb: Prs
+
+2024-07-02 09:03 hello
+2024-07-02 09:31 general_overhead: catch up
+2024-07-02 10:28 spudweb: dailyscrum
+2024-07-02 13:13 spudweb: gulnur PR
+2024-07-02 13:57 lunch**
+2024-07-02 17:09 spudweb: gulnur PR
+
+2024-07-03 09:12 hello
+2024-07-03 09:30 general_overhead: catch up
+2024-07-03 09:53 spudweb: dailyscrum
+2024-07-03 12:54 spudweb: model run observation inputs
+2024-07-03 13:21 lunch**
+2024-07-03 17:05 spudweb: latest dates
+
+2024-07-04 08:58 hello
+2024-07-04 09:30 general_overhead: catch up
+2024-07-04 09:45 spudweb: dailyscrum
+2024-07-04 12:51 spudweb: latest dates
+2024-07-04 13:23 lunch**
+2024-07-04 16:10 spudweb: latest dates
+2024-07-04 16:42 spudweb: latest dates
+2024-07-04 16:53 spudweb: latest dates
+
+2024-07-08 08:52 hello
+2024-07-08 09:30 general_overhead: catch up
+2024-07-08 09:53 spudweb: dailyscrum
+2024-07-08 10:14 optioat: update certificates
+2024-07-08 12:26 spudweb: include digs
+2024-07-08 13:20 lunch**
+2024-07-08 14:00 general_overhead: catch up
+2024-07-08 16:57 spudweb: include digs
+
+2024-07-09 09:06 hello
+
+2024-07-10 08:28 hello
+2024-07-10 16:10 spudweb: include digs
+
+2024-07-11 08:47 hello
+
+2024-07-12 08:49 hello
+
+2024-07-15 08:30 hello
+2024-07-15 12:47 spudweb: include digs
+2024-07-15 13:42 lunch**
+2024-07-15 17:02 spudweb: include digs
+
+2024-07-16 08:43 hello
+2024-07-16 09:32 general_overhead: catch up
+2024-07-16 10:02 spudweb: dailyscrum
+2024-07-16 12:35 spudweb: include digs
+2024-07-16 13:21 lunch**
+2024-07-16 16:54 spudweb: include digs
+2024-07-16 16:57 spudweb: include digs
+
+2024-07-17 08:36 hello
+2024-07-17 09:32 general_overhead: catch up
+2024-07-17 09:58 spudweb: dailyscrum
+2024-07-17 12:49 spudweb: include digs
+2024-07-17 13:35 lunch**
+2024-07-17 16:18 spudweb: take db dumps
+2024-07-17 16:48 spudweb: take db dumps
+
+2024-07-18 08:40 hello
+2024-07-18 09:30 general_overhead: catch up
+2024-07-18 10:14 spudweb: dailyscrum
+2024-07-18 12:32 spudweb: take db dumps
+2024-07-18 13:11 lunch**
+2024-07-18 16:50 spudweb: take db dumps
+
+2024-08-01 08:31 hello
+2024-08-01 09:43 spudweb: dailyscrum
+2024-08-01 12:52 spudweb: idk tbh
+2024-08-01 13:58 lunch**
+2024-08-01 17:01 spudweb: idk tbh
+
+2024-08-02 08:52 hello
+2024-08-02 09:45 spudweb: dailyscrum
+2024-08-02 12:24 spudweb: idk tbh
+2024-08-02 13:07 lunch**
+2024-08-02 17:01 optioat: update certificates
+
+2024-08-05 08:28 hello
+2024-08-05 09:34 optioat: update certificates
+2024-08-05 09:38 spudweb: dailyscrum
+2024-08-05 12:17 software_overhead: fixing docker
+2024-08-05 13:25 lunch**
+
+2024-08-06 08:40 hello
+2024-08-06 09:33 spudweb: productionise docker
+2024-08-06 09:44 spudweb: dailyscrum
+2024-08-06 12:25 spudweb: productionise docker
+2024-08-06 13:33 lunch**
+2024-08-06 14:03 spudweb: productionise docker
+2024-08-06 14:53 general_overhead: team meeting
+2024-08-06 17:12 spudweb: productionise docker
+
+2024-08-07 08:24 hello
+2024-8-07  09:30 general_overhead: stuff
+2024-08-07 09:51 spudweb: dailyscrum
+2024-08-07 12:33 optioat: ingest climatology
+2024-08-07 13:16 lunch**
+2024-08-07 16:01 optioat: ingest climatologyAAAAArport
+2024-08-07 16:39 optioat: ingest climatology
+
+2024-08-08 08:34 hello
+2024-08-08 09:34 general_overhead: catch up
+2024-08-08 09:41 spudweb: dailyscrum
+2024-08-08 12:50 optioat: ingest climatology
+2024-08-08 13:54 lunch**
+
+2024-08-09 08:42 hello
+2024-08-09 09:31 general_overhead: catch up
+2024-08-09 09:51 spudweb: dailyscrum
+2024-08-09 14:26 spudweb: new caceh
+2024-08-09 15:20 lunch**
+2024-08-09 16:50 spudweb: new caceh
+
+2024-08-12 08:32 hello
+2024-08-12 09:30 general_overhead: catch up
+2024-08-12 10:16 spudweb: dailyscrum
+2024-08-12 13:40 spudweb: new cache
+2024-08-12 14:42 lunch**
+2024-08-12 16:59 optioat: get IRI
+
+2024-08-13 08:40 hello
+2024-08-13 09:57 spudweb: dailyscrum
+2024-08-13 11:10 spudweb: backlog refinement
+2024-08-13 12:33 optioat: get IRI
+2024-08-13 13:35 lunch**
+2024-08-13 14:00 optioat: get IRI
+2024-08-13 14:45 general_overhead: team meeting
+2024-08-13 16:01 spudweb: improve coverage
+2024-08-13 17:03 spudweb: pepsi catchup
+2024-08-13 17:11 spudweb: pepsi catchup
+
+2024-08-14 08:48 hello
+2024-08-14 09:30 general_overhead: catch up
+2024-08-14 12:06 spudweb: sprint planning
+2024-08-14 12:24 software_overhead: fixing docker
+2024-08-14 12:26 general_overhead: catch up
+2024-08-14 13:29 lunch**
+2024-08-14 16:52 software_overhead: fixing docker
+2024-08-14 17:10 general_overhead: messing about
+2024-08-14 17:16 spudweb: testing
+
+2024-08-15 08:43 hello
+2024-08-15 09:41 spudweb: testing
+2024-08-15 09:53 spudweb: dailyscrum
+2024-08-15 10:37 spudweb: testing
+2024-08-15 12:31 software_overhead: fixing esds
+2024-08-15 13:25 lunch**
+2024-08-15 16:59 spudweb: testing
+
+2024-08-16 08:24 hello
+2024-08-16 09:32 spudweb: testing
+2024-08-16 09:43 spudweb: dailyscrum
+2024-08-16 12:00 spudweb: testing
+2024-08-16 12:55 lunch**
+2024-08-16 15:57 spudweb: testing
+2024-08-16 16:41 general_overhead: pad
+
+2024-08-19 08:31 hello
+2024-08-19 11:48 sick_leave: wrist
+2024-08-19 12:06 spudweb: testing
+2024-08-19 14:04 optioat: stuf
+2024-08-19 15:00 spudweb: backlog refinement
+2024-08-19 15:24 general_overhead: stuff
+2024-08-19 16:31 optioat: stuf
+
+2024-08-20 08:40 hello
+2024-08-20 09:00 general_overhead: catch up
+2024-08-20 09:32 optioat: stuf
+2024-08-20 09:55 spudweb: dailyscrum
+2024-08-20 10:17 spudweb: test
+2024-08-20 13:28 optioat: fix smpa
+2024-08-20 14:22 lunch**
+2024-08-20 14:59 general_overhead: team meeting
+2024-08-20 17:07 optioat: fix smpa
+
+2024-08-21 08:39 hello
+2024-08-21 10:05 spudweb: dailyscrum
+2024-08-21 10:54 optioat: fix smpa
+2024-08-21 11:34 spudweb: gulnur
+2024-08-21 12:41 soil_erosion: meeting
+2024-08-21 13:36 lunch**
+2024-08-21 14:05 optioat: fix smpa
+2024-08-21 14:57 spudweb: refinement
+2024-08-21 15:50 optioat: fix smpa
+2024-08-21 16:58 spudweb: PRs and admin
+
+2024-08-22 08:25 hello
+2024-08-22 09:30 general_overhead: catch up
+2024-08-22 09:49 spudweb: dailyscrum
+2024-08-22 12:00 optioat: fix smap
+2024-08-22 12:03 optioat: fix smap
+2024-08-22 13:03 soil_erosion: meeting
+2024-08-22 14:06 lunch**
+2024-08-22 14:23 optioat: fix smap
+2024-08-22 17:04 soil_erosion: meeting
+
+2024-08-23 08:32 hello
+2024-08-23 09:04 general_overhead: catch up
+2024-08-23 09:30 soil_erosion: setup
+2024-08-23 09:41 spudweb: dailyscrum
+2024-08-23 12:15 soil_erosion: setup
+2024-08-23 13:23 lunch**
+2024-08-23 16:05 soil_erosion: setup
+2024-08-23 16:36 general_overhead: PAD
+
+2024-08-27 08:33 hello
+2024-08-27 08:55 general_overhead: catch up
+2024-08-27 09:30 soil_erosion: setup
+2024-08-27 09:58 spudweb: dailyscrum
+2024-08-27 12:37 soil_erosion: setup
+2024-08-27 13:33 lunch**
+2024-08-27 14:09 soil_erosion: setup
+2024-08-27 15:51 soil_erosion: setup
+2024-08-27 16:15 spudweb: pepmet stuff
+2024-08-27 16:53 soil_erosion: setup
+
+2024-08-28 08:42 hello
+2024-08-28 09:31 general_overhead: catch up
+2024-08-28 11:26 spudweb: dssat
+2024-08-28 12:08 general_overhead: stuff
+2024-08-28 13:00 lunch**
+2024-08-28 17:18 soil_erosion: setup
+
+2024-08-29 08:43 hello
+2024-08-29 09:20 general_overhead: catch up
+2024-08-29 09:30 soil_erosion: setup
+2024-08-29 09:42 spudweb: dailyscrum
+2024-08-29 13:10 soil_erosion: setup
+2024-08-29 14:01 lunch**
+2024-08-29 15:43 soil_erosion: setup
+2024-08-29 16:24 general_overhead: catch up
+2024-08-29 16:51 spudweb: dssat models
+
+2024-08-30 08:30 hello
+2024-08-30 09:04 spudweb: dssat models
+2024-08-30 09:30 general_overhead: catch up
+2024-08-30 09:53 spudweb: dailyscrum
+2024-08-30 10:21 soil_erosion: setup
+2024-08-30 12:28 soil_erosion: refactor
+2024-08-30 13:28 lunch**
+2024-08-30 13:46 software_overhead: fixing esds
+2024-08-30 16:44 soil_erosion: refactor
+
+2024-09-02 08:30 hello
+2024-09-02 09:30 general_overhead: stuff
+2024-09-02 09:45 spudweb: dailyscrum
+2024-09-02 12:45 soil_erosion: refactor
+2024-09-02 13:59 lunch**
+2024-09-02 14:00 soil_erosion: refactor
+2024-09-02 15:04 spudweb: backlog refinement
+2024-09-02 17:09 soil_erosion: refactor
+
+2024-09-03 08:28 hello
+2024-09-03 08:41 general_overhead: catch up
+2024-09-03 09:32 soil_erosion: refactor
+2024-09-03 09:57 spudweb: dailyscrum
+2024-09-03 12:45 soil_erosion: testing
+2024-09-03 13:50 lunch**
+2024-09-03 14:04 soil_erosion: testing
+2024-09-03 15:00 general_overhead: team meeting
+2024-09-03 15:38 spudweb: backlog refinement
+2024-09-03 16:00 soil_erosion: testing
+2024-09-03 17:06 spudweb: sprint review
+
+2024-09-04 08:40 hello
+2024-09-04 08:55 general_overhead: catch up
+2024-09-04 09:30 soil_erosion: testing
+2024-09-04 12:44 spudweb: sprint planning
+2024-09-04 13:44 lunch**
+2024-09-04 14:02 soil_erosion: testing
+2024-09-04 15:22 spudweb: sprint review
+2024-09-04 16:45 soil_erosion: testing
+2024-09-04 17:04 soil_erosion: testing
+
+2024-09-05 08:36 hello
+2024-09-05 09:30 software_overhead: fixing peatport
+2024-09-05 09:42 spudweb: dailyscrum
+2024-09-05 11:07 software_overhead: fixing peatscope
+2024-09-05 12:56 soil_erosion: testing
+2024-09-05 14:05 lunch**
+2024-09-05 17:02 soil_erosion: testing
+2024-09-05 17:09 software_overhead: fixing peatscope
+
+2024-09-06 09:15 hello
+2024-09-06 12:30 soil_erosion: testing
+2024-09-06 13:37 lunch**
+2024-09-06 17:22 soil_erosion: testing
+
+2024-09-09 08:23 hello
+2024-09-09 08:52 general_overhead: catch up
+2024-09-09 09:30 soil_erosion: move vectors
+2024-09-09 09:44 spudweb: dailyscrum
+2024-09-09 13:06 soil_erosion: move vectors
+2024-09-09 14:00 lunch**
+2024-09-09 15:58 software_overhead: sec meeting
+2024-09-09 17:01 soil_erosion: move vectors
+
+2024-09-10 08:28 hello
+2024-09-10 09:00 soil_erosion: move vectors
+2024-09-10 09:30 general_overhead: catch up
+2024-09-10 09:45 spudweb: dailyscrum
+2024-09-10 12:21 soil_erosion: move vectors
+2024-09-10 13:23 lunch**
+2024-09-10 14:00 soil_erosion: move vectors
+2024-09-10 14:53 general_overhead: team meeting
+2024-09-10 16:18 soil_erosion: move vectors
+2024-09-10 16:55 soil_erosion: move vectors
+
+2024-09-11 08:57 hello
+2024-09-11 09:30 general_overhead: catch up
+2024-09-11 10:08 spudweb: dailyscrum
+2024-09-11 13:07 soil_erosion: move vectors
+2024-09-11 14:06 lunch**
+2024-09-11 14:38 spudweb: backlog refinement
+2024-09-11 17:26 soil_erosion: move vectors
+
+2024-09-12 08:39 hello
+2024-09-12 09:30 general_overhead: dailyscrum
+2024-09-12 09:49 spudweb: dailyscrum
+2024-09-12 10:30 soil_erosion: move vectors
+2024-09-12 13:02 software_overhead: upgrade django
+2024-09-12 14:02 lunch**
+2024-09-12 17:03 software_overhead: upgrade django
+
+2024-09-13 09:13 hello
+2024-09-13 09:33 general_overhead: catch up
+2024-09-13 09:51 spudweb: dailyscrum
+2024-09-13 13:03 spudweb: pepmet stuff
+2024-09-13 13:56 lunch**
+2024-09-13 17:35 spudweb: pepmet stuff
+
+2024-09-16 08:28 hello
+2024-09-16 09:33 software_overhead: package pyproj
+2024-09-16 09:50 spudweb: dailyscrum
+2024-09-16 13:13 software_overhead: package pyproj
+2024-09-16 14:05 lunch**
+2024-09-16 15:12 software_overhead: package pyproj
+2024-09-16 16:44 software_overhead: package pyproj
+
+2024-09-17 08:31 hello
+2024-09-17 09:00 general_overhead: catch up
+2024-09-17 09:30 software_overhead: package pyproj
+2024-09-17 09:46 spudweb: dailyscrum
+2024-09-17 12:04 software_overhead: packaging
+2024-09-17 13:04 optioat: optioat
+2024-09-17 14:02 lunch**
+2024-09-17 14:55 general_overhead: team meeting
+2024-09-17 16:53 software_overhead: package pyproj
+
+2024-09-18 08:26 hello
+2024-09-18 09:30 software_overhead: package pyproj
+2024-09-18 09:49 spudweb: dailyscrum
+2024-09-18 13:02 optioat: conditional queries
+2024-09-18 13:49 lunch**
+2024-09-18 13:59 general_overhead: catch up
+2024-09-18 14:48 spudweb: backlog refinement
+2024-09-18 15:36 optioat: conditional queries
+2024-09-18 15:42 optioat: conditional queries
+2024-09-18 15:44 software_overhead: package pyproj
+2024-09-18 16:38 optioat: conditional queries
+
+2024-09-19 08:18 hello
+2024-09-19 09:10 general_overhead: catch up
+2024-09-19 09:30 general_overhead: catch up
+2024-09-19 09:49 optioat: dailyscrum
+2024-09-19 10:15 general_overhead: catch up
+2024-09-19 10:50 optioat: work on email
+2024-09-19 11:20 spudweb: PR reviews
+2024-09-19 12:18 software_overhead: build rsgislib
+2024-09-19 12:31 optioat: reviews
+2024-09-19 13:48 lunch**
+2024-09-19 14:02 optioat: reviews
+2024-09-19 17:00 software_overhead: test on staging
+
+2024-09-20 08:28 hello
+2024-09-20 09:32 general_overhead: catch up
+2024-09-20 09:46 optioat: dailyscrum
+2024-09-20 10:00 software_overhead: test on staging
+2024-09-20 10:31 optioat: reviews
+2024-09-20 12:21 software_overhead: test on staging
+2024-09-20 12:32 optioat: update email PR
+2024-09-20 13:23 lunch**
+2024-09-20 14:29 software_overhead: test on staging
+2024-09-20 15:09 spudweb: fix pepmet
+2024-09-20 16:14 optioat: update email PR
+2024-09-20 16:44 optioat: francis email
+
+2024-09-23 08:46 hello
+2024-09-23 09:00 general_overhead: stuff
+2024-09-23 09:31 soil_erosion: staging
+2024-09-23 09:44 spudweb: dailyscrum
+2024-09-23 12:01 soil_erosion: staging
+2024-09-23 13:15 soil_erosion: staging
+2024-09-23 13:55 lunch**
+2024-09-23 14:00 soil_erosion: staging
+2024-09-23 15:06 spudweb: backlog refinement
+2024-09-23 16:51 soil_erosion: staging
+
+2024-09-24 08:47 hello
+2024-09-24 09:20 general_overhead: catch up
+2024-09-24 09:31 soil_erosion: staging
+2024-09-24 09:50 spudweb: dailyscrum
+2024-09-24 12:44 soil_erosion: staging
+2024-09-24 13:44 lunch**
+2024-09-24 14:44 general_overhead: team meeting
+2024-09-24 16:05 soil_erosion: staging
+2024-09-24 17:13 soil_erosion: staging
+
+2024-09-25 08:39 hello
+2024-09-25 09:11 general_overhead: catch up
+2024-09-25 09:31 soil_erosion: staging
+2024-09-25 11:42 spudweb: sprint planning
+2024-09-25 12:48 soil_erosion: staging
+2024-09-25 13:59 lunch**
+2024-09-25 15:22 spudweb: sprint retro
+2024-09-25 17:00 soil_erosion: staging
+2024-09-25 17:21 soil_erosion: staging
+
+2024-09-26 09:05 hello
+2024-09-26 09:30 general_overhead: catch up
+2024-09-26 09:45 spudweb: dailyscrum
+2024-09-26 14:22 soil_erosion: staging
+2024-09-26 15:14 lunch**
+2024-09-26 17:25 soil_erosion: staging
+
+2024-09-27 09:03 hello
+2024-09-27 09:30 general_overhead: catch up
+2024-09-27 09:44 spudweb: dailyscrum
+2024-09-27 10:07 general_overhead: catch up
+2024-09-27 13:39 soil_erosion: staging
+2024-09-27 13:46 general_overhead: catch up
+2024-09-27 14:52 lunch**
+2024-09-27 17:45 soil_erosion: staging
+
+2024-09-30 09:06 hello
+2024-09-30 09:33 general_overhead: catch up
+2024-09-30 13:02 soil_erosion: ingestor
+2024-09-30 14:27 lunch**
+2024-09-30 17:56 soil_erosion: ingestor
+
+2024-10-01 09:13 hello
+2024-10-01 09:30 general_overhead: catch up
+2024-10-01 09:40 spudweb: dailyscrum
+2024-10-01 12:25 soil_erosion: ingestor
+2024-10-01 13:21 lunch**
+2024-10-01 14:30 soil_erosion: ingestor
+2024-10-01 17:33 soil_erosion: ingestor
+
+2024-10-02 08:57 hello
+2024-10-02 09:30 general_overhead: catch up
+2024-10-02 09:58 spudweb: dailyscrum
+2024-10-02 13:01 soil_erosion: ingestor
+2024-10-02 13:57 lunch**
+2024-10-02 14:00 general_overhead: catch up
+2024-10-02 15:01 spudweb: backlog refinement
+2024-10-02 17:23 soil_erosion: run workflow
+
+2024-10-03 08:43 hello
+2024-10-03 09:09 software_overhead: invutils pr
+2024-10-03 09:30 soil_erosion: run workflow
+2024-10-03 09:41 spudweb: dailyscrum
+2024-10-03 13:12 soil_erosion: refactor ingestor and geodf logic
+2024-10-03 14:17 lunch**
+2024-10-03 14:40 soil_erosion: refactor ingestor and geodf logic
+2024-10-03 17:12 soil_erosion: finish refactor
+
+2024-10-04 08:28 hello
+2024-10-04 09:33 soil_erosion: start workflow
+2024-10-04 09:52 spudweb: dailyscrum
+2024-10-04 14:29 soil_erosion: cut release and start ingest
+2024-10-04 15:18 lunch**
+2024-10-04 16:14 soil_erosion: cut release and start ingest
+2024-10-04 16:55 software_overhead: backup pc
+
+2024-10-07 09:23 hello
+2024-10-07 09:30 general_overhead: catch up
+2024-10-07 09:44 spudweb: dailyscrum
+2024-10-07 13:30 software_overhead: upgrade dev env
+2024-10-07 14:06 software_overhead: upgrade dev env
+2024-10-07 14:31 spudweb: backlog refinement
+2024-10-07 14:53 soil_erosion: meeting plus send jamie email
+2024-10-07 17:09 software_overhead: upgrade dev env
+
+2024-10-08 09:20 hello
+2024-10-08 09:30 general_overhead: catch up
+2024-10-08 09:43 spudweb: dailyscrum
+2024-10-08 11:20 software_overhead: upgrade dev env
+2024-10-08 13:20 soil_erosion: read code and seup
+2024-10-08 13:49 software_overhead: upgrade dev env
+2024-10-08 14:00 general_overhead: go boo boo
+2024-10-08 15:00 general_overhead: team meeting
+2024-10-08 16:46 soil_erosion: identify problem with missing risk scores
+
+2024-10-09 09:08 hello
+2024-10-09 09:30 general_overhead: catch up
+2024-10-09 12:03 spudweb: sprint planning
+2024-10-09 12:21 general_overhead: stuf
+2024-10-09 13:30 lunch**
+2024-10-09 17:10 soil_erosion: identify problem with missing risk scores
+2024-10-09 17:36 general_overhead: catch up
+
+2024-10-10 09:28 hello
+2024-10-10 09:52 spudweb: dailyscrum
+2024-10-10 10:41 general_overhead: stuff
+2024-10-10 12:55 software_overhead: try to build optioat. fail.
+2024-10-10 13:06 general_overhead: stuff
+2024-10-10 14:13 lunch**
+2024-10-10 15:34 general_overhead: write brag doc
+2024-10-10 17:22 general_overhead: write brag doc
+
+2024-10-11 09:22 hello
+2024-10-11 09:45 spudweb: dailyscrum
+2024-10-11 10:07 software_overhead: install env notice on poproc
+2024-10-11 16:38 soil_erosion: identify problem with missing risk scores
+
+2024-10-14 08:42 hello
+2024-10-14 09:30 soil_erosion: identify problem with missing risk scores
+2024-10-14 09:46 spudweb: dailyscrum
+2024-10-14 11:51 spudweb: iri Pr review
+2024-10-14 14:00 soil_erosion: identify problem with missing risk scores
+2024-10-14 14:46 spudweb: backlog refinement
+2024-10-14 14:50 general_overhead: catch up
+2024-10-14 15:11 lunch**
+2024-10-14 16:27 soil_erosion: reproject vectors
+
+2024-10-15 09:08 hello
+2024-10-15 09:30 soil_erosion: deploy reprojected
+2024-10-15 09:41 spudweb: dailyscrum
+2024-10-15 13:14 soil_erosion: figure out why no risk
+2024-10-15 14:00 lunch**
+2024-10-15 14:36 general_overhead: team meeting
+2024-10-15 17:18 soil_erosion: reingest 
+
+2024-10-16 09:20 hello
+2024-10-16 09:30 general_overhead: catch up
+2024-10-16 09:57 spudweb: dailyscrum
+2024-10-16 12:56 soil_erosion: upload latest errdashutils change to staging and run workflow
+2024-10-16 15:00 soil_erosion: upload latest errdashutils change to staging and run workflow
+2024-10-16 17:00 general_overhead: travel 
