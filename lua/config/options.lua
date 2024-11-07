@@ -4,3 +4,5 @@
 vim.opt.number = true
 vim.opt.relativenumber = false
 vim.opt.winbar = "%=%m %f"
+
+vim.opt.sessionoptions:append("buffers", "curdir", "help", "winpos", "winsize", "terminal")
