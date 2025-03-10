@@ -6,6 +6,7 @@ return {
     "mfussenegger/nvim-dap-python",
     "nvim-neotest/nvim-nio",
     "theHamsta/nvim-dap-virtual-text",
+    "leoluz/nvim-dap-go",
   },
   config = function()
     local dap, dapui = require("dap"), require("dapui")
@@ -13,6 +14,7 @@ return {
 
     require("mason-nvim-dap").setup()
     require("dap-python").setup(mason_path .. "packages/debugpy/venv/bin/python")
+    require("dap-go").setup()
     require("nvim-dap-virtual-text").setup({})
     dapui.setup()
     dap.listeners.before.attach.dapui_config = function()
@@ -45,9 +47,13 @@ return {
       },
     }
 
-    vim.keymap.set("n", "<Leader>dc", function()
+    vim.keymap.set("n", "<leader>dc", function()
       dap.continue()
-    end, { desc = "Continue debugger" })
+    end, { desc = "continue debugger" })
+
+    vim.keymap.set("n", "<leader>du", function()
+      require("dapui").toggle({ reset = true })
+    end, { desc = "Toggle UI" })
 
     vim.keymap.set("n", "<Leader>dso", function()
       dap.step_over()
@@ -74,19 +80,19 @@ return {
     vim.keymap.set("n", "<Leader>dl", function()
       dap.run_last()
     end, { desc = "Run last" })
-    -- vim.keymap.set({ "n", "v" }, "<Leader>dh", function()
-    --   require("dap.ui.widgets").hover()
-    -- end, { desc = "Hover" })
-    -- vim.keymap.set({ "n", "v" }, "<Leader>dp", function()
-    --   require("dap.ui.widgets").preview()
-    -- end, { desc = "Preview" })
-    -- vim.keymap.set("n", "<Leader>df", function()
-    --   local widgets = require("dap.ui.widgets")
-    --   widgets.centered_float(widgets.frames)
-    -- end, { desc = "Open Frames" })
-    -- vim.keymap.set("n", "<Leader>ds", function()
-    --   local widgets = require("dap.ui.widgets")
-    --   widgets.centered_float(widgets.scopes)
-    -- end, { desc = "Open Scopes" })
+    vim.keymap.set({ "n", "v" }, "<Leader>dh", function()
+      require("dap.ui.widgets").hover()
+    end, { desc = "Hover" })
+    vim.keymap.set({ "n", "v" }, "<Leader>dp", function()
+      require("dap.ui.widgets").preview()
+    end, { desc = "Preview" })
+    vim.keymap.set("n", "<Leader>df", function()
+      local widgets = require("dap.ui.widgets")
+      widgets.centered_float(widgets.frames)
+    end, { desc = "Open Frames" })
+    vim.keymap.set("n", "<Leader>ds", function()
+      local widgets = require("dap.ui.widgets")
+      widgets.centered_float(widgets.scopes)
+    end, { desc = "Open Scopes" })
   end,
 }
