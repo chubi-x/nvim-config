@@ -4,8 +4,7 @@ return {
   opts = {
     modes = {
       symbols = {
-        -- mode = "lsp_references",
-        win = { position = "left" },
+        win = { position = "right" },
       },
     },
   },
