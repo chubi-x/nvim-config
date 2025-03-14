@@ -51,6 +51,9 @@ return {
       dap.continue()
     end, { desc = "continue debugger" })
 
+    vim.keymap.set("n", "<leader>dk", function()
+      dap.close()
+    end, { desc = "kill debugger" })
     vim.keymap.set("n", "<leader>du", function()
       require("dapui").toggle({ reset = true })
     end, { desc = "Toggle UI" })
