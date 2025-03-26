@@ -46,7 +46,7 @@ return {
         } },
       },
     }
-
+    vim.fn.sign_define("DapBreakpoint", { text = "🟥", texthl = "", linehl = "", numhl = "" })
     vim.keymap.set("n", "<leader>dc", function()
       dap.continue()
     end, { desc = "continue debugger" })
@@ -64,6 +64,9 @@ return {
     vim.keymap.set("n", "<Leader>dsi", function()
       dap.step_into()
     end, { desc = "Step in" })
+    vim.keymap.set({ "n", "v" }, "<Leader>dt", function()
+      require("dap-go").debug_test()
+    end, { desc = "Debug test" })
     vim.keymap.set("n", "<Leader>dso", function()
       dap.step_out()
     end, { desc = "Step out" })
