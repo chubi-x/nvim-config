@@ -35,15 +35,17 @@ return {
         type = "python",
         request = "attach",
         connect = {
-          port = 6700,
-          host = "0.0.0.0",
+          port = 5678,
+          host = "127.0.0.1",
         },
         mode = "remote",
         name = "debug python",
-        pathMappings = { {
-          localRoot = vim.fn.getcwd(),
-          remoteRoot = "/app",
-        } },
+        pathMappings = {
+          {
+            localRoot = vim.fn.getcwd(),
+            remoteRoot = ".",
+          },
+        },
       },
     }
     vim.fn.sign_define("DapBreakpoint", { text = "🟥", texthl = "", linehl = "", numhl = "" })
