@@ -32,14 +32,50 @@ return {
 
     dap.configurations.python = {
       {
-        type = "python",
+        type = "debugpy",
         request = "attach",
         connect = {
-          port = 5678,
+          port = 7777,
           host = "127.0.0.1",
         },
+        justMyCode = false,
+        django = true,
         mode = "remote",
         name = "debug python",
+        pathMappings = {
+          {
+            localRoot = vim.fn.getcwd(),
+            remoteRoot = ".",
+          },
+        },
+      },
+      {
+        type = "debugpy",
+        request = "attach",
+        connect = {
+          port = 7775,
+          host = "127.0.0.1",
+        },
+        justMyCode = false,
+        mode = "remote",
+        name = "debug management command",
+        pathMappings = {
+          {
+            localRoot = vim.fn.getcwd(),
+            remoteRoot = ".",
+          },
+        },
+      },
+      {
+        type = "debugpy",
+        request = "attach",
+        connect = {
+          port = 7774,
+          host = "127.0.0.1",
+        },
+        justMyCode = false,
+        mode = "remote",
+        name = "debug test",
         pathMappings = {
           {
             localRoot = vim.fn.getcwd(),
