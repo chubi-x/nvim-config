@@ -1,9 +1,1 @@
-return {
-	{ "ellisonleao/gruvbox.nvim" },
-	{
-		"LazyVim/LazyVim",
-		opts = {
-			colorscheme = "gruvbox",
-		},
-	},
-}
+/home/chubi/.config/omarchy/current/theme/neovim.lua
