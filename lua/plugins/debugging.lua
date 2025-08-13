@@ -70,6 +70,27 @@ return {
         type = "debugpy",
         request = "attach",
         connect = {
+          port = 7771,
+          host = "127.0.0.1",
+        },
+        justMyCode = false,
+        mode = "remote",
+        name = "debug poproc celery command",
+        pathMappings = {
+          {
+            localRoot = vim.fn.getcwd(),
+            remoteRoot = ".",
+          },
+          {
+            localRoot = "/home/chubi/venvs/poproc",
+            remoteRoot = ".",
+          },
+        },
+      },
+      {
+        type = "debugpy",
+        request = "attach",
+        connect = {
           port = 7774,
           host = "127.0.0.1",
         },
