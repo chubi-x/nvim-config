@@ -10,19 +10,19 @@ require("neo-tree.sources.filesystem.commands")
       -- expects to get its state fed to it
       .get_state("filesystem")
   )
-require("mason").setup()
-require("mason-lspconfig").setup({})
+require("mason-lspconfig").setup({ automatic_enable = true })
 --Enable (broadcasting) snippet capability for completion
 local capabilities = vim.lsp.protocol.make_client_capabilities()
 capabilities.textDocument.completion.completionItem.snippetSupport = true
 local null_ls = require("null-ls")
-
+-- vim.lsp.config["null-ls"]
 null_ls.setup({
   sources = {
     null_ls.builtins.formatting.stylua,
+    null_ls.builtins.formatting.prettier,
+    null_ls.builtins.formatting.clang_format,
     null_ls.builtins.completion.spell,
     null_ls.builtins.diagnostics.djlint,
-    null_ls.builtins.diagnostics.hadelint,
   },
 })
 --
