@@ -23,3 +23,24 @@
 --     end
 --   end,
 -- })
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = { "c", "cpp", "rust", "python" },
+  callback = function()
+    vim.opt_local.foldmethod = "expr"
+    vim.opt_local.foldexpr = "nvim_treesitter#foldexpr()"
+  end,
+})
+
+-- Enable filetype plugin and indent
+vim.cmd("filetype plugin indent on")
+
+-- Enable syntax highlighting
+vim.cmd("syntax on")
+
+-- Treesitter configuration
+require("nvim-treesitter.configs").setup({
+  highlight = {
+    enable = true,
+    additional_vim_regex_highlighting = false,
+  },
+})
