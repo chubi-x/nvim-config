@@ -1,1 +1,0 @@
-/home/chubi/.config/omarchy/current/theme/neovim.lua
