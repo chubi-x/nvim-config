@@ -25,15 +25,15 @@ return {
       debug = true,
       sources = {
         null_ls.builtins.formatting.stylua,
+        null_ls.builtins.formatting.djlint,
         null_ls.builtins.completion.spell,
         null_ls.builtins.code_actions.gitsigns,
         null_ls.builtins.code_actions.refactoring,
         null_ls.builtins.completion.tags,
         null_ls.builtins.diagnostics.djlint,
-        null_ls.builtins.diagnostics.ansiblelint,
-        null_ls.builtins.diagnostics.cppcheck,
         null_ls.builtins.diagnostics.fish,
         nginx_formatter,
+        null_ls.builtins.diagnostics.djlint,
       },
     })
   end,

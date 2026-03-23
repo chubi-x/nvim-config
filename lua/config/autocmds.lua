@@ -38,9 +38,3 @@ vim.cmd("filetype plugin indent on")
 vim.cmd("syntax on")
 
 -- Treesitter configuration
-require("nvim-treesitter.configs").setup({
-  highlight = {
-    enable = true,
-    additional_vim_regex_highlighting = false,
-  },
-})

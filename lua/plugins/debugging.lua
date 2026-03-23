@@ -47,6 +47,10 @@ return {
             localRoot = vim.fn.getcwd(),
             remoteRoot = ".",
           },
+          {
+            localRoot = os.getenv("VIRTUAL_ENV"),
+            remoteRoot = "/venv",
+          },
         },
       },
       {
@@ -105,7 +109,7 @@ return {
         },
       },
     }
-    vim.fn.sign_define("DapBreakpoint", { text = "🟥", texthl = "", linehl = "", numhl = "" })
+    vim.fn.sign_define("DapBreakpoint", { text = "🔴", texthl = "", linehl = "", numhl = "" })
     vim.keymap.set("n", "<leader>dc", function()
       dap.continue()
     end, { desc = "continue debugger" })
@@ -117,7 +121,7 @@ return {
       require("dapui").toggle({ reset = true })
     end, { desc = "Toggle UI" })
 
-    vim.keymap.set("n", "<Leader>dso", function()
+    vim.keymap.set("n", "<Leader>dsc", function()
       dap.step_over()
     end, { desc = "Step over" })
     vim.keymap.set("n", "<Leader>dsi", function()
@@ -126,22 +130,22 @@ return {
     vim.keymap.set({ "n", "v" }, "<Leader>dt", function()
       require("dap-go").debug_test()
     end, { desc = "Debug test" })
-    vim.keymap.set("n", "<Leader>dso", function()
+    vim.keymap.set("n", "<Leader>dsov", function()
       dap.step_out()
     end, { desc = "Step out" })
 
     vim.keymap.set("n", "<Leader>db", function()
       dap.toggle_breakpoint()
     end, { desc = "Toggle breakpoint" })
-    vim.keymap.set("n", "<Leader>B", function()
+    vim.keymap.set("n", "<Leader>dB", function()
       dap.set_breakpoint()
     end, { desc = "Set breakpoint" })
-    vim.keymap.set("n", "<Leader>lp", function()
+    vim.keymap.set("n", "<Leader>dl", function()
       dap.set_breakpoint(nil, nil, vim.fn.input("Log point message: "))
     end, { desc = "Log point message" })
-    -- vim.keymap.set("n", "<Leader>dr", function()
-    --   dap.repl.open()
-    -- end, { desc = "Open REPL" })
+    vim.keymap.set("n", "<Leader>dr", function()
+      dap.repl.open()
+    end, { desc = "Open REPL" })
     vim.keymap.set("n", "<Leader>dl", function()
       dap.run_last()
     end, { desc = "Run last" })
@@ -155,9 +159,9 @@ return {
       local widgets = require("dap.ui.widgets")
       widgets.centered_float(widgets.frames)
     end, { desc = "Open Frames" })
-    vim.keymap.set("n", "<Leader>ds", function()
-      local widgets = require("dap.ui.widgets")
-      widgets.centered_float(widgets.scopes)
-    end, { desc = "Open Scopes" })
+    -- vim.keymap.set("n", "<Leader>ds", function()
+    --   local widgets = require("dap.ui.widgets")
+    --   widgets.centered_float(widgets.scopes)
+    -- end, { desc = "Open Scopes" })
   end,
 }
